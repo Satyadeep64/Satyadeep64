@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌟 ANIMATED HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=Hi%20there,%20I'm%20Satya%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=Hi%20there,%20I'm%20Satyadeep%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <!-- ⚡ DYNAMIC TYPING SUBTITLE -->
   <a href="https://git.io/typing-svg">
