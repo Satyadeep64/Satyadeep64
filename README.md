@@ -7,24 +7,23 @@ Full Stack Developer • React • ASP.NET Core • SQL Server • Azure
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;ASP.NET+Core+Developer;Azure+Enthusiast;Building+Oppora+🚀;Always+Learning+New+Things" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Developer;ASP.NET+Core+Developer;Azure+Cloud+Learner;Building+Real+World+Projects;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently building **Oppora**
-- 🌱 Learning **Azure Cloud**
-- 💻 Passionate about Full Stack Development
-- 📚 Solving DSA every day
-- 🎯 Goal: Software Engineer
+- 💻 Passionate Full Stack Developer focused on building scalable web applications.
+- 🌱 Exploring modern backend development and cloud technologies.
+- 🚀 Love turning ideas into real-world products.
+- 📚 Continuously improving through learning and hands-on projects.
+- 🎯 Interested in Software Engineering, System Design and Cloud Computing.
+- ⚡ Always excited to solve challenging problems.
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -32,7 +31,7 @@ Full Stack Developer • React • ASP.NET Core • SQL Server • Azure
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="satyadeep64@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -43,13 +42,65 @@ Full Stack Developer • React • ASP.NET Core • SQL Server • Azure
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nodejs,dotnet,cs,java,mysql,git,github,vscode,azure,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,dotnet,cs,nodejs,express,mysql,git,github,vscode,azure,docker,postman&perline=6"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| 💼 Job Portal | Full Stack Recruitment Platform |
+| 📄 AI Resume Builder | Resume Creation & ATS Ready |
+| 🌐 Portfolio Website | Responsive Developer Portfolio |
+| 📰 News Website | React News Application |
+| 🛒 E-Commerce Platform | Shopping Platform |
+
+---
+
+## 📚 Currently Learning
+
+- ✔ ASP.NET Core
+- ✔ Azure Cloud
+- ✔ SQL Server
+- ✔ Docker
+- ✔ System Design
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build production-ready Full Stack applications
+- 📈 Improve Data Structures & Algorithms
+- ☁ Master Cloud Deployment
+- 🤝 Contribute to Open Source
+- 💼 Become a better Software Engineer every day
+
+---
+
+## 🌟 Interests
+
+- 💻 Full Stack Development
+- ☁ Cloud Computing
+- 🤖 Artificial Intelligence
+- 📱 UI/UX Design
+- 🔐 Backend Development
+- 📊 Problem Solving
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ I enjoy building real-world software.
+- 🚀 Every project teaches something new.
+- 💡 Clean code and beautiful UI matter.
+- 🌍 Curious about emerging technologies.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -83,42 +134,15 @@ Full Stack Developer • React • ASP.NET Core • SQL Server • Azure
 
 # 📈 Contribution Graph
 
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Oppora | Full Stack Job Portal |
-| 📄 Resume Builder | AI Resume Builder |
-| 📰 News Website | React News Platform |
-| 💻 Portfolio | Personal Portfolio |
-
----
-
-# 📚 Currently Learning
-
-- ✅ ASP.NET Core
-- ✅ Azure
-- ✅ SQL Server
-- ✅ Docker
-- ✅ System Design
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
-# 💬 Dev Quote
+# 💬 Developer Quote
 
 <p align="center">
 
@@ -128,14 +152,37 @@ Full Stack Developer • React • ASP.NET Core • SQL Server • Azure
 
 ---
 
-# 🐍 Contribution Snake
+# 👀 Profile Views
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+- 🚀 Built multiple Full Stack applications
+- 💻 Passionate about modern web technologies
+- 📚 Lifelong learner
+- 🌱 Always exploring new tools and frameworks
+
+---
+
+# 🌍 Let's Connect
+
+Always open to collaborating on exciting projects, discussing technology, and connecting with fellow developers.
 
 ---
 
 <h3 align="center">
 
-Thanks for visiting ❤️
+⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+Happy Coding 🚀
 
 </h3>
