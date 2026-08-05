@@ -1,191 +1,47 @@
-<div align="center">
-
-# 👋 Hi, I'm Satyadeep Srivastava
-
-### 🚀 Full Stack Developer | React | ASP.NET Core | SQL Server | Azure
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;ASP.NET+Core+Developer;Azure+Cloud+Learner;Building+Real+World+Applications;Always+Learning+Something+New+🚀" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=180&section=header"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-- 💻 Passionate Full Stack Developer
-- 🌱 Learning Azure Cloud & System Design
-- 🚀 Love building real-world software
-- 📚 Constant learner and problem solver
-- ⚡ Clean Code • Modern UI • Best Practices
-- 🎯 Goal: Become an Excellent Software Engineer
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/satyadeep-srivastava-577187239">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="satyadeep64@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,dotnet,cs,nodejs,express,mysql,git,github,azure,docker,vscode,postman&perline=8"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyadeep64&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyadeep64&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Satyadeep64&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyadeep64&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyadeep64&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Tech Highlights
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet"/>
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-```text
-🚀 Building Full Stack Applications
-
-☁ Learning Azure Cloud
-
-💻 Improving DSA
-
-📚 Exploring System Design
-
-⚡ Writing Clean & Maintainable Code
-```
-
----
-
-# 🌟 Interests
-
-- 💻 Full Stack Development
-- ☁ Cloud Computing
-- 🤖 Artificial Intelligence
-- 📱 UI/UX Design
-- 🔐 Backend Development
-- 📊 Data Structures & Algorithms
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 💼 Oppora | Full Stack Job Portal |
-| 📄 Resume Builder | AI Resume Builder |
-| 🌐 Portfolio | Personal Portfolio |
-| 📰 News Website | React News Platform |
-| 🛒 E-Commerce | Shopping Platform |
-
----
-
-# 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Satyadeep64&style=for-the-badge&color=2563EB"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> "The best way to learn programming is by building projects and solving real-world problems."
-
----
+<!-- 
+===================================================================
+✨ ADVANCED INTERACTIVE GITHUB PROFILE UI
+Note: Replace all instances of `YOUR_USERNAME` with your GitHub username!
+===================================================================
+-->
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+  <!-- 🌟 Animated Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=Hi%20there,%20I'm%20YOUR_NAME%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 
-### Happy Coding 🚀
+  <!-- ⚡ Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=💻+Full-Stack+Developer+%26+Software+Architect;🚀+Building+High-Performance+Web+Applications;✨+Passionate+About+UI%2FUX%2C+Clean+Code+%26+AI;🔥+Welcome+to+my+Interactive+GitHub+Universe!" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=180&section=footer"/>
+  <br/><br/>
+
+  <!-- 🎯 Live Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-00FF66?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Location-Global%20%2F%20Remote-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+
+  <!-- 🌐 Social Media Buttons -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎛️ Interactive Profile Dashboard (Click Tabs to Expand)
+
+<details open>
+  <summary>🧠 <b>About Me & Terminal Bio</b> (Click to collapse/expand)</summary>
+  <br/>
+
+```bash
+developer@antigravity-system ~ % neofetch --profile
