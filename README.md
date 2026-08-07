@@ -1,62 +1,93 @@
-# Developer OS README (Part 1)
-
-> **Note:** This is Part 1 of a larger README.
+# ⚡ SATYADEEP OS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SATYADEEP%20OS&fontSize=42&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,100:06b6d4&text=SATYADEEP%20OS&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;React+%7C+ASP.NET+Core+%7C+Node.js;Building+Oppora;Azure+Cloud+Engineer"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&center=true&vCenter=true&width=900&lines=INITIALIZING+DEVELOPER+OS...;LOADING+AI+MODULES...;SYSTEM+STATUS+ONLINE;WELCOME+TO+THE+CONTROL+CENTER" />
 
 </div>
 
 ---
 
-## 🖥 Developer Console
+# 🖥️ CONTROL CENTER
 
 ```text
-╔══════════════════════════════════════╗
-║ SATYADEEP OS v1.0                   ║
-║ STATUS : ONLINE                     ║
-║ ROLE   : Full Stack Developer       ║
-║ TARGET : Software Engineer          ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║ SYSTEM NAME      : SATYADEEP OS                             ║
+║ STATUS           : ONLINE                                   ║
+║ MODE             : DEVELOPMENT                              ║
+║ TERMINAL         : ACTIVE                                   ║
+║ AI ENGINE        : ENABLED                                  ║
+║ CLOUD LINK       : CONNECTED                                ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 👨‍💻 About
+<details open>
+<summary><b>🧠 System Identity</b></summary>
 
 ```yaml
-Name: Satyadeep Srivastava
-Role: Full Stack Developer
-Current Project: Oppora
-Focus:
-  - React
-  - ASP.NET Core
-  - Node.js
-  - Azure
+Kernel: Developer OS
+Role: Full Stack Engineer
+Mode: Continuous Learning
+Architecture:
+  - Frontend
+  - Backend
+  - APIs
+  - Cloud
+Mission:
+  Build scalable software with clean architecture.
 ```
 
-## 🧰 Tech Stack
+</details>
 
-| Frontend | Backend | Database | Cloud |
-|-----------|----------|----------|-------|
-| React | ASP.NET Core | SQL Server | Azure |
-| JavaScript | Node.js | MongoDB | Vercel |
+---
 
-## 🚀 Featured Projects
+# ⚙️ TECHNOLOGY MATRIX
 
-| Project | Description |
-|---|---|
-| Oppora | Career platform |
-| News Website | Live news portal |
-| Buddy Finder | Collaboration app |
+| Layer | Status | Notes |
+|------|:------:|------|
+| React | 🟢 | Interface Engine |
+| ASP.NET Core | 🟢 | Service Layer |
+| JavaScript | 🟢 | Runtime |
+| C# | 🟢 | Core Language |
+| SQL | 🟢 | Structured Data |
+| MongoDB | 🟢 | Document Data |
+| Azure | 🟢 | Cloud Runtime |
+| Git | 🟢 | Version Control |
 
-## 📈 Current Mission
+---
 
-- Build scalable applications
-- Learn System Design
-- Master DSA
-- Prepare for SDE interviews
+# 📡 LIVE SYSTEM METRICS
 
+```text
+CPU      ████████████████████ 100%
+MEMORY   ██████████████████░  94%
+NETWORK  ███████████████████  98%
+BUILD    ███████████████████ 100%
+```
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+- Design scalable applications
+- Learn advanced system design
+- Master distributed systems
+- Improve backend performance
+- Explore cloud-native architecture
+- Write clean, maintainable code
+
+---
+
+<div align="center">
+
+### SYSTEM HEALTH
+
+████████████████████████████ 100%
+
+> "Every commit is another step toward mastery."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06b6d4,100:0f172a"/>
