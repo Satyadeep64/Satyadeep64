@@ -1,4 +1,4 @@
-# ⚡ SATYADEEP OS
+# ⚡HI,I AM SATYADEEP 
 
 <div align="center">
 
