@@ -1,7 +1,4 @@
- 
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,100:06b6d4&text=SATYADEEP%20SRIVASTAVA&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&center=true&vCenter=true&width=900&lines=INITIALIZING+DEVELOPER+OS...;LOADING+AI+MODULES...;SYSTEM+STATUS+ONLINE;WELCOME+TO+THE+CONTROL+CENTER" />
